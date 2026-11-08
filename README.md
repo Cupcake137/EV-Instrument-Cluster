@@ -3,7 +3,9 @@
 An embedded electric-vehicle instrument cluster prototype built with Qt/QML,
 C/C++, Raspberry Pi 3B+, Arduino Uno and ESP32.
 
-![Instrument cluster](docs/media/cluster-demo.jpg)
+![Qt/QML instrument cluster running in Drive with the Trip menu](docs/media/cluster-ui.png)
+
+Actual application UI in simulation mode.
 
 [Hardware demo](https://github.com/Cupcake137/EV-Instrument-Cluster/releases/tag/v1.0.0)
 
